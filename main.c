@@ -1,3 +1,5 @@
+//Create a menu driven program to implement singly linklist operations for INSERTION DELETION SEARCH TRAVERSAL
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -197,19 +199,4 @@ int main() {
     
   }while(i==1);
 
-
-  // display(head);
-  // head = Intfront(head);
-  // display(head);
-  // IntBack(head);
-  // display(head);
-  // IntRan(head);
-  // display(head);
-  // head=Delfront(head);
-  // display(head);
-  // Delback(head);
-  // display(head);
-  // Delran(head);
-  // display(head);
-  // Search(head);
 }
